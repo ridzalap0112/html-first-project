@@ -1,0 +1,48 @@
+  html {
+                font-size: 23px;
+            }
+            body {
+                margin: o;
+                padding: 20px;
+                background-color: #333;
+                color: whitesmoke;
+                font-family: Arial, Helvetica, sans-serif;
+            }
+            h1{
+                color:blue;
+            }
+            .higlight{
+                color:azure;
+            }
+            .special{
+                color:red;
+            }
+
+            a {
+                color: aliceblue;
+            }
+
+            a:visited {
+                color: lightgray;
+            }
+
+            a:hover, a:active {
+                color: #eee;
+            }
+
+            nav ul {
+                list-style: none;
+                padding: 0;
+            }
+
+            nav li {
+                display: inline-block;
+                margin-right: 15px;
+                }
+            
+            table, tr, th, td, caption  {
+                border: 1px solid #eee;
+                font-family: 'Courier New', Courier, monospace;
+                border-collapse: collapse;
+                padding: 0.5rem;
+            }    
