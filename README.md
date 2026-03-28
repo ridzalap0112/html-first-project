@@ -40,7 +40,7 @@ The goal of this project is to transition into a career as a Frontend Developer 
 
 ## 📸 Preview
 
-(Add your screenshot here later)
+![Website Preview](Web1.png)
 
 ---
 
