@@ -50,6 +50,9 @@ The goal of this project is to transition into a career as a Frontend Developer 
 - Improve UI/UX design
 - Add JavaScript interactivity
 - Optimize performance
+  
+## 🌍 Live Demo
+https://ridzalap0112.github.io/html-first-project/
 
 ---
 
